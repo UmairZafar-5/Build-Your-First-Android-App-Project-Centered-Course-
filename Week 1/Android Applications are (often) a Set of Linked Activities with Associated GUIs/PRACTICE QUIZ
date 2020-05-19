@@ -1,0 +1,20 @@
+**1. What is a view?**
+
+- It is the layout of the screen displayed to the user and which serves as an interface for your application.
+- **It is a graphical element which can be used in the user interface of your application.**
+- It is a structure which organizes the position of the different buttons, texts and images of the graphical user interface of your application.
+
+**_Correct
+Correct! Examples of views: Button, ImageView, EditText, RadioButton, but also LinearLayout..._**
+
+2. Is it possible to use multiple views on a single screen of the graphical user interface of your application?
+
+
+
+3. What is the name of the views that allow you to organize the position of the graphical components on the activity screen?
+4. Is it possible to nest a layout within another one?
+5. Android buttons have a predefined style. The size and color of a button and its text cannot be changed.
+6. Associating a name (unique id) to a view is mandatory when using what kind of layout?
+7. Which actions can be triggered by a button click? (check all that apply)
+8. When an activity A starts an activity B (check all that apply):
+9. Activities are completely independent from one another, they cannot share data.
